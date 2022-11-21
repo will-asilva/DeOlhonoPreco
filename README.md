@@ -1,4 +1,4 @@
-# DeOlhonoPreco
+# De Olho no Preco
 
 
 Com os constantes aumentos de preço com os quais nos deparamos no dia a dia, o consumidor frequentemente se assusta com os valores encontrados nos supermercados, que ora estão mais caros, ora variam muito de um dia para o outro.
@@ -17,4 +17,11 @@ tempo em suas compras e gerenciar seus gastos na hora do supermercado. O De olho
 
  
 O aplicativo simplifica a vida de quem necessita de ter várias listas de compras apropriadas a cada contexto de sua vida, como compras para a família, compras para festas e eventos ou compras para um comércio.
+
+
+Nesta versão desenvolvemos um site onde deverá ser testada a função de cadastro do aplicativo WEB.
+
+Integrantes do Grupo 16:
+
+William Antonio Silva, Luis Roberto da Silva Junior, Luiz Fellipe Nunes da Silva, Vinicius da Silva Paula, Maria Dina Savassini.
 
