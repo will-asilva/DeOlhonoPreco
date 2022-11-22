@@ -1,4 +1,4 @@
-# De Olho no Preco
+# De Olho no Preço
 
 Com os constantes aumentos de preço com os quais nos deparamos no dia a dia, o consumidor frequentemente se assusta com os valores encontrados nos supermercados, que ora estão mais caros, ora variam muito de um dia para o outro.
 O aplicativo De olho no preço! foi desenvolvido para que o consumidor possa ir ao supermercado com sua lista de compras e os valores aproximados de cada produto e se sinta confortável em escolher entre produtos similares, encontrando o que seja mais adequado para o seu orçamento e sem surpresas na hora de pagar a conta.
